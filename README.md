@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @xanaullah
 Full Stack Laravel Devloper at Beauty Secrets Riyadh  Saudi Arbia
 - 👀 I’m interested in Database  Cloud and Network security
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning  AWS solution architecture
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me  sanaullah0497@gmail.com
 
 <!---
