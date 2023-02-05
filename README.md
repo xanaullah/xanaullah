@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xanaullah
-Full Stack Laravel Devloper at Softech Business Services Islamabad Pakistan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning DevOPs
+Full Stack Laravel Devloper at Beauty Secrets Riyadh  Saudi Arbia
+- 👀 I’m interested in Database  Cloud and Network security
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  sanaullah0497@gmail.com
 
